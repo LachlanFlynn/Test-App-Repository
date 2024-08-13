@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">C Test App</string>
+    <string name="enter_two_numbers_and_click_the_button_to_calculate_the_sum_of_squares" translatable="false">Enter two numbers and click the button to calculate the sum of squares.</string>
+    <string name="enter_a_number" translatable="false">Enter a number</string>
+    <string name="calculate_sum" translatable="false">Calculate Sum</string>
+    <string name="invalid_input" translatable="false">Invalid input</string>
+    <string name="result" translatable="false">Result =</string>
+    <string name="c_screen">C++ Screen</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_second">title activity second</string>
+</resources>
